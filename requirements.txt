@@ -1,8 +1,9 @@
-streamlit
-pandas
-numpy
-scikit-learn
-shap
-lime
-matplotlib
-joblib
+streamlit>=1.25
+pandas>=1.5
+numpy>=1.23
+scikit-learn>=1.2
+shap>=0.44
+lime>=0.2.0.1
+matplotlib>=3.7
+joblib>=1.3
+
